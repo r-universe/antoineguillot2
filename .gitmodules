@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "D3partitionR"]
+	path = D3partitionR
+	url = https://github.com/antoineguillot2/d3partitionr
+	shallow = true
+	registered = true
